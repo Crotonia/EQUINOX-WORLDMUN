@@ -173,7 +173,7 @@
   height: 40px;
   border-radius: 0 0 4px 4px;
 }
-@media (max-width: 550px) {
+@media (max-width: 620px) {
   .flipdown {
     height: 70px;
   }
@@ -188,7 +188,7 @@
   .flipdown .rotor-top,
   .flipdown .rotor-bottom,
   .flipdown .rotor:after {
-    width: 30px;
+    width: 20px;
   }
   .flipdown .rotor-group {
     padding-right: 20px;
